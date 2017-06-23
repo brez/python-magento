@@ -2,3 +2,4 @@
 build/
 dist/
 magento.egg-info/
+magento/__pycache__/
